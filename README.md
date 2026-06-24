@@ -1,6 +1,6 @@
 # Assembly Portfolio
 
-This repository contains three assembly tasks for BIT4220.
+This repository contains three assembly tasks.
 
 - `taskone/datarepr` - data representation examples with `hello.asm` and `data_repr.asm`.
 - `tasktwo/alusimul` - ALU simulator showing arithmetic, bitwise operations, and flag output.
