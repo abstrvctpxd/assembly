@@ -7,3 +7,8 @@ This repository contains three assembly tasks.
 - `taskthree/marksproc` - student marks processor with classification and addressing mode examples.
 
 Each subfolder contains a README with build and run instructions.
+
+How to run
+Task 1: cd taskone/datarepr && make && ./hello && ./data_repr
+Task 2: cd tasktwo/alusimul && make && ./alu
+Task 3: cd taskthree/marksproc && make && ./marks
